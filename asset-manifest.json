@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vahallla/react_test/static/css/main.a5b99e94.css",
+    "main.js": "/vahallla/react_test/static/js/main.12ef2f2d.js",
+    "static/js/787.924567e0.chunk.js": "/vahallla/react_test/static/js/787.924567e0.chunk.js",
+    "index.html": "/vahallla/react_test/index.html",
+    "main.a5b99e94.css.map": "/vahallla/react_test/static/css/main.a5b99e94.css.map",
+    "main.12ef2f2d.js.map": "/vahallla/react_test/static/js/main.12ef2f2d.js.map",
+    "787.924567e0.chunk.js.map": "/vahallla/react_test/static/js/787.924567e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b99e94.css",
+    "static/js/main.12ef2f2d.js"
+  ]
+}
